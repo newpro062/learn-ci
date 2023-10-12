@@ -2,7 +2,7 @@
     "environment": {
         "test": {
             "scripts": {
-                "test": "nose test"
+                "test": "echo \"Error: no test specified\" && exit 1"
             }
         }
     }
