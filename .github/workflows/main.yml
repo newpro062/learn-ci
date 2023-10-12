@@ -30,6 +30,8 @@ jobs:
         with:
           # gitlab-ci token
           token: glptt-510946fb8c7c3abaf4d9079be889cdd3ca9ee78e
+          # gitlab-ci valid refs are only the branches and tags
+          ref: main
           # gitlab project id
           project_id: 51176305
           # debug mode
