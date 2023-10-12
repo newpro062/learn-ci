@@ -16,6 +16,6 @@ jobs:
         FORCE_PUSH: "false"
         GITLAB_HOSTNAME: "gitlab.com"
         GITLAB_USERNAME: "vietnh2202"
-        GITLAB_PASSWORD: ${{ secrets.GITLAB_PASSWORD }},
+        GITLAB_PASSWORD: glpat-a8RszxdEZKgwmnzxfL3a
         GITLAB_PROJECT_ID: "51176305"
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
