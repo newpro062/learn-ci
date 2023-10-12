@@ -23,6 +23,5 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Mirror to GitLab and run GitLab CI
-        run: echo "Trigger Gitlab CI"
         uses: SvanBoxel/gitlab-mirror-and-ci-action@0.2
             
